@@ -10,7 +10,7 @@ Before you can use this repo, make sure you have:
 
 # Step 01
 Create deployment and autoscale an nginx by number of request in the last 30 seconds. 
-Write yourself the yaml files (practice):
+Write yourself the yaml files:
 * Namespace
 * Deployment
 * Service
