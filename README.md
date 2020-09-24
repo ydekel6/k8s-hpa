@@ -21,3 +21,5 @@ In this step we will install prometheus and configure custom matrices
 * Install prometheus
 * Configure HPA matrices
 * Test the scaling
+
+note: to use the script the is written, make sure you have openssl package installed.

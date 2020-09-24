@@ -4,6 +4,7 @@ metadata:
     name: nginx
     namespace: k8s-hpa-testing
 spec:
+    type: LoadBalancer
     selector:
         name: nginx
     ports:
