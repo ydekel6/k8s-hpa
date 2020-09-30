@@ -22,4 +22,6 @@ In this step we will install prometheus and configure custom matrices
 * Configure HPA matrices
 * Test the scaling
 
-note: to use the script the is written, make sure you have openssl package installed.
+notes:
+* To use the script the is written, make sure you have openssl package installed.
+* The script will install the latest stable helm (currenty 3.3.4)
